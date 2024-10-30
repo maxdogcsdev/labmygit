@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <p>edit @ midle</p>
+  <p>edit @ localdev</p>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
