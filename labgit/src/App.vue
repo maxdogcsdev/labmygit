@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <p>edit @ midle</p>
   <p>edit @ localdev</p>
   <HelloWorld msg="Vite + Vue" />
+  <p>add affter localdev create</p>
 </template>
 
 <style scoped>
